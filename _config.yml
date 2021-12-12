@@ -4,8 +4,8 @@
 
 # Site
 title: Clownfish7
-subtitle: 'subtitle'
-description: 'desc'
+subtitle: 'Day Day Up!'
+description: ''
 keywords:
 author: clownfish7
 language: zh-CN
@@ -106,3 +106,12 @@ deploy:
   repo: https://github.com/clownfish7/clownfish7.github.io #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: master
   #message: [message]
+
+symbols_count_time:
+  symbols: false
+  
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
