@@ -1,2 +1,2 @@
 # blog
-blog
+static blog with hexo repo
